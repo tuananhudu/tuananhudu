@@ -8,7 +8,6 @@
 ---
 ### 🔗 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tuananh.buiduy.90)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuananh.buiduy.90@gmail.com)
 
 ---
 
